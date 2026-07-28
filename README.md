@@ -6,6 +6,9 @@ Hello friend! 👋 This is a special computer program that helps you find the pe
 
 ![Safe Status](https://img.shields.io/badge/Status-Works_Great!-success?style=for-the-badge)
 
+# 🌟 **TRY IT LIVE NOW!** 🌟
+### 👉 [Click Here to Enter the Magic App](https://faculty-project-zht8.onrender.com/static/index.html) 👈
+
 ---
 
 ## 🤔 What Does This Do?
@@ -28,7 +31,9 @@ But with **Super Teacher Finder**, you just type: *"I want to build a robot dog"
 
 ## 🎮 How to Play (Start the App)
 
-Ask a grown-up to help you with these steps! We need to open the **Magic Command Box** (Terminal).
+**Don't want to install anything?** [Click here to play online!](https://faculty-project-zht8.onrender.com/static/index.html)
+
+If you want to run it on your own computer, ask a grown-up to help you with these steps! We need to open the **Magic Command Box** (Terminal).
 
 ### Option A: Using Python 🐍
 
@@ -93,5 +98,3 @@ One day, we will add:
 ### 4
 ![4](4.png)
 
-### 5
-![5](5.png)
